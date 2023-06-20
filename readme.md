@@ -6,4 +6,4 @@
 Go live server or open html in browser
 ```
 
-![Alt text](img/guitar-full.png)
+![Alt text](src/img/guitar-full.png)
